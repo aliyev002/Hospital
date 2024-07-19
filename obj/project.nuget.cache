@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/xr79GmKO9Gk1Z0gEeZQ2va037ergoK7YM706Rd36dd61MQ0poLLcDyCcLeGvgGhfCirt9i2zgBP4BXI3E6mmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Legion\\source\\repos\\Hospital(END)\\Hospital(END)\\Hospital(END).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
